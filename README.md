@@ -10,5 +10,9 @@ Public developer site for Elvin Kakomo. Hosts the Cops & Robbers privacy policy,
 To replace the contact email later:
 
 ```bash
-sed -i 's/CONTACT_EMAIL_PLACEHOLDER/you@example.com/g' index.html cops-and-robbers/privacy.html cops-and-robbers/terms.html
+Support email is appsupport@startumafrica.com (already set in index.html, privacy.html, and terms.html).
+
+The developer website is https://startumafrica.com. Play requires app-ads.txt at
+https://startumafrica.com/app-ads.txt (deploy there separately). A copy also lives at
+https://elvinanesu.github.io/app-ads.txt. Privacy and terms stay on this GitHub Pages site.
 ```
